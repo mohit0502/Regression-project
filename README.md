@@ -76,7 +76,6 @@ This project involves predicting weekly sales for Walmart stores using various r
 4. **Data Balancing**: Consider synthetic methods like SMOTE to address imbalanced data distributions.
 
 ## Dependencies
-- Python 3.11.4
 - Libraries:
   - pandas
   - numpy
